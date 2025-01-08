@@ -156,6 +156,7 @@ export class ScheduleComponent implements OnInit {
           console.log('Request failed: ', error);
         }
       });
+      location.reload()
     }
   }
 
