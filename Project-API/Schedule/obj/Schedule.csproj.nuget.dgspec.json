@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Schedule\\Schedule.csproj": {}
+    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Schedule\\Schedule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Application\\Application.csproj": {
+    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\theas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Application\\obj\\",
+        "outputPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj"
+              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj"
               },
-              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Database\\Database.csproj": {
-                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Database\\Database.csproj"
+              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Database\\Database.csproj": {
+                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Database\\Database.csproj"
               }
             }
           }
@@ -108,14 +108,14 @@
         }
       }
     },
-    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj": {
+    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\theas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\obj\\",
+        "outputPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Database\\Database.csproj": {
+    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Database\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Database\\Database.csproj",
+        "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Database\\Database.csproj",
         "packagesPath": "C:\\Users\\theas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Database\\obj\\",
+        "outputPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -233,8 +233,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj"
+              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj"
               }
             }
           }
@@ -306,14 +306,14 @@
         }
       }
     },
-    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Schedule\\Schedule.csproj": {
+    "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Schedule\\Schedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Schedule\\Schedule.csproj",
+        "projectUniqueName": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Schedule\\Schedule.csproj",
         "projectName": "Schedule",
-        "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Schedule\\Schedule.csproj",
+        "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Schedule\\Schedule.csproj",
         "packagesPath": "C:\\Users\\theas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Schedule\\obj\\",
+        "outputPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Schedule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -334,14 +334,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Application\\Application.csproj"
+              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Application\\Application.csproj"
               },
-              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Business\\Business.csproj"
+              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Business\\Business.csproj"
               },
-              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Database\\Database.csproj": {
-                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject\\Project-API\\Database\\Database.csproj"
+              "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Database\\Database.csproj": {
+                "projectPath": "C:\\Users\\theas\\OneDrive\\Documents\\GitHub\\AngularProject-Secondary\\Project-API\\Database\\Database.csproj"
               }
             }
           }

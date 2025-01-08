@@ -27,7 +27,7 @@
                     <td *ngFor="let date of weekDates" class="text-center">
                         <div *ngFor="let schedule of organizedSchedules[date]?.[job.id]?.morning">
                             <div *ngIf="schedule.isApproved" class="shift shift--morning">
-                                <img src="../../../assets/icons/moon.svg" class="shift_icon" />
+                                <img src="../../../assets/icons/sun.svg" class="shift_icon" />
                                 <span class="shift_name">{{ schedule.firstName }} {{ schedule.lastName }}</span>
                                 <div class="shift_controls">
                                     <button *ngIf="userService.isAdmin()" class="shift_btn delete" (click)="deleteSchedule(schedule.id)">
