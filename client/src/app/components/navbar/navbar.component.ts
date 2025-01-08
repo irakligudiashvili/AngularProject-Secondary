@@ -7,7 +7,9 @@ import { UserService } from 'src/app/services/user.service';
   styleUrls: ['./navbar.component.css']
 })
 export class NavbarComponent {
-  constructor(private userService:UserService){}
+  constructor(
+    protected userService:UserService
+  ){}
   
   loggedIn!:boolean;
   ngOnInit(){
