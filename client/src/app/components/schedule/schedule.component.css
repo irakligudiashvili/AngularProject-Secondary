@@ -108,7 +108,6 @@ table td {
 .schedule_form{
     margin: auto;
     width: min(90%, 400px);
-    height: 400px;
 
     display: flex;
     flex-direction: column;
@@ -117,15 +116,18 @@ table td {
     text-align: center;
     align-items: center;
 
-    background-color: #D7C6C6;
 
     padding-bottom: 50px;
     margin-top: 20px;
     border-radius: 20px;
 
     gap: 10px;
+    box-shadow: 0px 5px 10px 0px gray;
 }
 
 .schedule_form_title{
     font-weight: bold;
+    background-color: #01B6AE;
+    width: 100%;
+    border-radius: 20px 20px 0 0;
 }
