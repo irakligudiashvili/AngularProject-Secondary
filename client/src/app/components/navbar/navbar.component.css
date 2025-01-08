@@ -16,7 +16,6 @@
 
 .navbar-btn_container{
     display: flex;
-    justify-content: space-evenly;
     align-items: center;
-    width: 40%;
+    gap: 15px;
 }
